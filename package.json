@@ -37,6 +37,6 @@
     "@dashkite/genie-release": "^0.2.3"
   },
   "dependencies": {
-    "@dashkite/zephyr": "link:../zephyr"
+    "@dashkite/zephyr": "0.3.0"
   }
 }
